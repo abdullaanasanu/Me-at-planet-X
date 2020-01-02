@@ -1,6 +1,6 @@
 # me_at_planet
 
-A new Flutter project.
+A new Flutter project to calculate weight on different planet.
 
 ## Getting Started
 
